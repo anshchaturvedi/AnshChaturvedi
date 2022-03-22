@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh!</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshchaturvedi" alt="anshchaturvedi" /></a> </p>
-
 - 🔭 I’m currently working on **some full-stack projects!**
 
 - 🌱 I’m currently learning **MERN, Python/Django and a little bit of Ruby on Rails :)**
