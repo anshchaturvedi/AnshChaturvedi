@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **some full-stack projects!**
 
+- Incoming at @theScore
+
 - 🌱 I’m currently learning **C++, Python/Django and some Elixir :)**
 
 - 👨‍💻 All of my projects are available at [github.com/AnshChaturvedi](github.com/AnshChaturvedi)
