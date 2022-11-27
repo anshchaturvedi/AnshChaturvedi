@@ -3,10 +3,8 @@
 
 - 🔭 I’m currently working on **some full-stack projects!**
 
-- 🌱 I’m currently learning **MERN, Python/Django and a little bit of Ruby on Rails :)**
+- 🌱 I’m currently learning **C++, Python/Django and some Elixir :)**
 
 - 👨‍💻 All of my projects are available at [github.com/AnshChaturvedi](github.com/AnshChaturvedi)
-
-- 💬 Ask me about **JavaScript and Python**
 
 - 📫 How to reach me **anshchaturvedi23@gmail.com**
