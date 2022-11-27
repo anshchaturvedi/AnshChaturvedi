@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some full-stack projects!**
 
-- Incoming at @theScore
+- 👨🏽‍💻 Incoming Software Engineer at @theScore this winter!
 
 - 🌱 I’m currently learning **C++, Python/Django and some Elixir :)**
 
